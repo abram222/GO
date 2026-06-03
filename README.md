@@ -1,2 +1,1 @@
-# GO
-go project
+# service6-video
